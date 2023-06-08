@@ -54,3 +54,16 @@ body {
 	background-color: #E6F2FF;
     color: white;
 }
+
+/* Styles for selected text */
+
+::selection {
+	background-color: #000066;
+	color: #000;
+}
+
+/* Styles for specific text color */
+
+.special-text {
+	color: #FF5C00; /* You can change the color value */
+}
