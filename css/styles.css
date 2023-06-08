@@ -10,6 +10,15 @@ body {
 	color: #202030;
 	background-color: #f8f8fc;
 }
+h1.fw-bolder {
+  color: #00264D; /* Very dark blue color */
+}
+h2 {
+  color: #003366; /* Dark blue color */
+}
+h2 {
+  color: #003366; /* Dark blue color */
+}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
